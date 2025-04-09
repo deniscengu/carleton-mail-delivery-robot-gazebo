@@ -24,7 +24,7 @@ For a detailed document which describes the design and implementation of the pro
 
 ## Setting up and Running the Project
 
-Please see appendices B and C of the [Final Report](/documents/Carleton Mail Delivery Robot Report.pdf) for instructions on how to set up and run the project.
+Please see appendices B and C of the [Final Report](/documents/Final Report.pdf) for instructions on how to set up and run the project.
 
 ## Previous Iterations of the Project
 
